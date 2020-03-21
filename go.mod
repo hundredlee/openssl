@@ -1,4 +1,4 @@
-module github.com/thinkoner/openssl
+module github.com/hundredlee/openssl
 
 go 1.12
 
